@@ -1,0 +1,7 @@
+
+ZEBY DODAC NOWA FUNKCJE
+1. dodac w config.def.h
+2. dodac w commands.lst
+3. dodac w commands.c
+
+w pliku config.def.h strzalki odpalaja funkcje quit z parametren int
