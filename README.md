@@ -8,6 +8,7 @@
 
 <kbd>LEFT</kbd>/<kbd>RIGHT</kbd> - exit and back to lf
 
+<kbd>PGDN</kbd> - toggle fullscreen
 
 
 
